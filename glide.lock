@@ -1,0 +1,8 @@
+hash: f45fa5f961e246c6d833b1645c5a7c4888b235065f779361d649fb506cefcc7a
+updated: 2016-05-25T11:12:50.615584352-05:00
+imports:
+- name: github.com/dlintw/goconf
+  version: dcc070983490608a14480e3bf943bad464785df5
+- name: github.com/go-sql-driver/mysql
+  version: 7ebe0a500653eeb1859664bed5e48dec1e164e73
+devImports: []

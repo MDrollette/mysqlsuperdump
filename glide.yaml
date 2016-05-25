@@ -1,0 +1,4 @@
+package: github.com/MDrollette/mysqlsuperdump
+import:
+- package: github.com/dlintw/goconf
+- package: github.com/go-sql-driver/mysql
